@@ -6,7 +6,9 @@ const errorHandler = require('./src/errorHandlers/500')
 const noRouteError = require('./src/errorHandlers/404')
 const PORT = process.env.PORT || 3232
 
-app.get('/info', (req, res) => {
+
+
+app.get('/', (req, res) => {
     res.status(200).send('Welcome to AWS Elastic Bean')
 })
 
