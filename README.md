@@ -8,5 +8,5 @@ Developer - David Whitmore
 
 All deploys are done through AWS Elastic Beanstalk. Links below
 
-- [CLI deploy](https://practice-env.eba-fgcinrvm.us-west-2.elasticbeanstalk.com/)
+- [CLI deploy](http://practice-env.eba-fgcinrvm.us-west-2.elasticbeanstalk.com/)
 - [GUI deploy](http://basicexpressserver-env-1.eba-379ekyy3.us-west-2.elasticbeanstalk.com/)
